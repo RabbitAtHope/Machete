@@ -1,0 +1,13 @@
+alive_progress
+beautifulsoup4
+dnspython
+nslookup
+paramiko
+pyfiglet
+pysmb
+python_nmap
+pythonping
+Requests
+shutup
+urllib3
+whatweb
